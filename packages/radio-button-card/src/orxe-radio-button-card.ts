@@ -10,7 +10,7 @@ export default class OrxeRadioButtonCard extends LitElement {
   subheading = 'subheading';
 
   @property({ type: String, attribute: 'label' })
-  label = '';
+  label = 'option1';
 
   @property({ type: String, attribute: 'points' })
   points = '';
