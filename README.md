@@ -18,6 +18,6 @@ Npm repository link -
 
 https://packages.common.cnxloyalty.com/service/rest/repository/browse/npm-stage-hosted/%40radio/radio-button-card/
 
-npm package – npm install @radio/radio-button-card@0.0.1
+npm package – npm install @radio-card/radio-button-card@0.0.1
 
 Selector - <orxe-radio-button-card></orxe-radio-button-card>
