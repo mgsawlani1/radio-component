@@ -16,8 +16,8 @@ The start command should open a tab in your browser at http://localhost:3000/
 
 Npm repository link -
 
-https://packages.common.cnxloyalty.com/service/rest/repository/browse/npm-stage-hosted/%40radio/radio-button-card/
+https://packages.common.cnxloyalty.com/service/rest/repository/browse/npm-stage-hosted/%40radio-card/radio-button-card/
 
-npm package – npm install @radio-card/radio-button-card@0.0.1
+npm package – npm install @radio-card/radio-button-card@0.0.3
 
 Selector - <orxe-radio-button-card></orxe-radio-button-card>
